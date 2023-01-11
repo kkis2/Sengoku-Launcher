@@ -1,18 +1,25 @@
 {
     "maintenance": false,
-    "maintenance_message": "Le server est en maintenance.<br>Merci de bien vouloir essayer ultérieurement.",
+    "maintenance_message": "Afin de régler quelques bugs, le launcher est temporairement indisponible.",
     "online": true,
     "client_id": "",
-    "game_version": "1.0",
-    "modde": false,
-    "verify": false,
+    "game_version": "1.7.10",
+    "modde": true,
+    "verify": true,
     "java": true,
     "game_args": [],
-    "dataDirectory": "minecraft",
+    "dataDirectory": "centralcorp",
     "ignored": ["crash-reports", "logs", "resourcepacks", "resources", "saves", "shaderpacks", "options.txt", "optionsof.txt"],
     "status": {
-        "nameServer": "le nom de votre server",
-        "ip": "127.0.0.1",
+        "nameServer": "CentralCorp",
+        "ip": "game.centralcorp.fr",
         "port": 25565
-    }
+    },
+    "changelog_version": "MAJ 2.8.0",
+    "changelog_new": "-Support des rôles <br> -Fond dynamique selon le rôle <br> -Affichage du nombre de points site",
+    "homeimg_admin": "https://rare-gallery.com/mocahbig/423893-Minecraft-Shader-shaders-sunset-reflection-snow.jpg",
+    "homeimg_vip": "https://centralcorp.fr/storage/img/banner.jpg",
+    "homeimg_modo": "https://preview.redd.it/pm653z94slm31.png?width=3840&format=png&auto=webp&s=1f77f2024f7ff8e1e0776c14f445afb607342b43",
+    "homeimg_member": "https://assets2.rockpapershotgun.com/beyond%20belief%20shaders.jpg/BROK/resize/1920x1920%3E/format/jpg/quality/80/beyond%20belief%20shaders.jpg",
+    "server_img": "https://centralcorp.fr/storage/img/logo.png"
 }
