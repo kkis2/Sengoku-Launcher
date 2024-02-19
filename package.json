@@ -1,7 +1,7 @@
 {
-    "name": "Sengoku Life",
+    "name": "Sengoku-Life",
     "preductname": "Sengoku Life Launcher",
-    "version": "2.3.3",
+    "version": "2.3.4",
     "description": "Launcher du serveur Sengoku Life RP",
     "main": "src/app.js",
     "author": "Luuxis/Riptiaz/LLicorne",
