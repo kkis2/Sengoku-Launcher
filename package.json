@@ -1,11 +1,11 @@
 {
-    "name": "Conflictura",
-    "preductname": "Conflictura Launcher",
-    "version": "2.3.1",
-    "description": "Conflictura modded server launcher",
+    "name": "Sengoku Life",
+    "preductname": "Sengoku Life Launcher",
+    "version": "2.3.2",
+    "description": "Launcher du serveur Sengoku Life RP",
     "main": "src/app.js",
-    "author": "Luuxis/Riptiaz",
-    "settings": "https://launcher.conflictura.site",
+    "author": "Luuxis/Riptiaz/LLicorne",
+    "settings": "https://sengoku-life.dreamcpu.fr/azauth",
     "engines": {
         "node": "16.x.x"
     },
@@ -34,6 +34,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Riptiaz/CentralCorp-Launcher.git"
+        "url": "git+https://github.com/kkis2/Sengoku-Launcher.git"
     }
 }
